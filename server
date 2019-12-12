@@ -14,7 +14,7 @@
 
 int fdt[Max]={0};
 char mes[1024];
-char str[]=":have logged in chatting room.\n";
+char str[]=":entered the chatting room.\n";
 char namelist[600];
 char callrecord[]="history";
 char inhis[]="have logged in.\n";
