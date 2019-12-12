@@ -168,10 +168,10 @@ void printtable(void)
 	printf("===============================================\n");
 	printf("The first number for column, and the second for row.\n");
 	printf("example : 22\n");
-	printf("Enter your choose:");
 	printf("===============================================\n");
 	counter++;
 	printf("turn = %d\n",counter);
+	printf("Enter your choose:");
 	if(counter == 10){
 		gamecheck();
 		printf("The game is over.\n");
